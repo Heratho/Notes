@@ -5,7 +5,7 @@ Links related to
 - https://jhalon.github.io/becoming-a-pentester/
 - https://blog.it-securityguard.com
 - https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
-
+- https://securityonline.info/
 
 # VM Images and Pentest labs
 - https://www.hacker101.com
