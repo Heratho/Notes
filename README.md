@@ -6,6 +6,7 @@ Links related to
 - https://blog.it-securityguard.com
 - https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 - https://securityonline.info/
+- https://blackwintersecurity.com
 
 # VM Images and Pentest labs
 - https://www.hacker101.com
