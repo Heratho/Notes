@@ -7,6 +7,8 @@ Links related to
 - https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
 - https://securityonline.info/
 - https://blackwintersecurity.com
+- https://www.owasp.org/index.php/Attack_Surface_Analysis_Cheat_Sheet 
+
 
 # VM Images and Pentest labs
 - https://www.hacker101.com
