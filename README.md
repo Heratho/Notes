@@ -9,6 +9,8 @@ Links related to
 - https://blackwintersecurity.com
 - https://www.owasp.org/index.php/Attack_Surface_Analysis_Cheat_Sheet 
 
+# computer security
+- https://www.ohshitwhatnow.org/2018/10/21/computer-security-for-activists-everyone-october-2018-slides-resources/
 
 # VM Images and Pentest labs
 - https://www.hacker101.com
