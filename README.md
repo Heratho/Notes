@@ -21,3 +21,6 @@ Links related to
 
 # Writeups
 - https://medium.com/secjuice/hackthebox-bashed-write-up-eceb6b9f6d6f
+
+# mobile
+- https://mobisec.reyammer.io/slides
