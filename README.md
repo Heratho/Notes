@@ -24,3 +24,7 @@ Links related to
 
 # mobile
 - https://mobisec.reyammer.io/slides
+
+# Authentication
+## SAML
+- https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
