@@ -25,6 +25,10 @@ Links related to
 # mobile
 - https://mobisec.reyammer.io/slides
 
+## Android
+- Pentesting Android applications by reversing and finding attack surfaces:  https://blog.usejournal.com/an-intro-to-pentesting-an-android-phone-464ec4860f39
+
+
 # Authentication
 ## SAML
 - https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/
