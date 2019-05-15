@@ -18,6 +18,12 @@ Links related to
 - https://www.vulnhub.com
 - https://www.hackthebox.eu
 
+# Vulnerabilities lookup
+- https://packetstormsecurity.com
+- https://nvd.nist.gov
+- https://www.cvedetails.com
+- https://cve.mitre.org
+
 
 # Writeups
 - https://medium.com/secjuice/hackthebox-bashed-write-up-eceb6b9f6d6f
