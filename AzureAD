@@ -1,3 +1,20 @@
 via powershell
 
+Required module
 import AzureAD
+
+
+use **Connect-AzureAD** first to signin to Azure Active Directory
+
+**_Get a user's information:_**
+Get-AzureADUser -SearchString "Vincent"
+
+Get-AzureADUser -Filter "startswith(DisplayName,'vincent')"
+Get-AzureADUser -Filter "endswith(DisplayName,'vincent')"
+
+
+
+$theUser = Get-AzureADUser -Filter "DisplayName eq 'Vincent Degrave'"
+$theUser | ft
+
+
