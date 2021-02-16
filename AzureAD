@@ -7,14 +7,14 @@ import AzureAD
 use **Connect-AzureAD** first to signin to Azure Active Directory
 
 **_Get a user's information:_**
-Get-AzureADUser -SearchString "Vincent"
+Get-AzureADUser -SearchString "firstname"
 
-Get-AzureADUser -Filter "startswith(DisplayName,'vincent')"
-Get-AzureADUser -Filter "endswith(DisplayName,'vincent')"
+Get-AzureADUser -Filter "startswith(DisplayName,'firstname')"
+Get-AzureADUser -Filter "endswith(DisplayName,'firstname')"
 
 
 
-$theUser = Get-AzureADUser -Filter "DisplayName eq 'Vincent Degrave'"
+$theUser = Get-AzureADUser -Filter "DisplayName eq 'Full Name'"
 $theUser | ft
 
 
